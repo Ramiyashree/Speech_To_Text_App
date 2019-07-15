@@ -1,0 +1,4 @@
+# Referenced at C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:26
+-keep class android.support.multidex.MultiDexApplication { <init>(); }
+# Referenced at C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:26
+-keep class com.example.voice_map.whateverString { <init>(); }

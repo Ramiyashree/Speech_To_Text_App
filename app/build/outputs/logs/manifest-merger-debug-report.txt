@@ -1,0 +1,380 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8fbca210c64159e0b56af7abeaf54b47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\009a9adff2a31980a71d1799ce8e24aa\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:17:1-118:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\10bae881a446838ef1800013ced0a04e\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\24c2cddfcde8cb42809ffaf32af038fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1-rc1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1-rc1.aar\3d621bfe7223211b1b82ab8830efc964\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a954365a3fc0ebad9ee037a8fe11d017\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2f27ecea21ed71ef8620d461e1b4dd1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8104fb6d1f3123e5d340ad5fb23dd810\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\bfe3eb1430b753cff6787de53c374738\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\62f32a8582f79f75245b4167840eb979\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e3fdd8633b6cecafdf3ee25dfa1c9d26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b48bd056586c2f0ea54517d3730cb751\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\08c7f228a1d85f76692ae67291d82b15\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\004921bb51b33c042026e705c812b7f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\417daf75e1b49ba6ea7d78a9a0badf73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4257bfbfbe3863bc60df8d34f5c58160\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1bc27c54d02af62d3042e8e60f3aaded\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1f1792164aafa70b5fb6e9113c58b302\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5d342e8f48e518cd7d9b0188d7c6ea5b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ce2c60020b71aa77466c33f64b962ef4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c54e12f31a4268f36dde8ab2fcd78ffb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a8fd58c7bc6b08c28cdc1e45f56a1a00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b37fa63d31a0c454c61528d4bdea5f12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2e11f360d738a1dbdd0684b81cbaa6f9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\967c710d53b7cdcf964c4fc1a7851615\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\886e46f321a4f92cbdaf1620746f6fa7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4f8ef6f15e606d8622c7afec3aaa918b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07f64a361e5e7f8be67f906a9ec5818c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1-rc1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1-rc1.aar\66e457c5694fad28db07aa36b2d8d60f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1-rc1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\db-1.1.1-rc1.aar\03aba61e0b39194d1cef23ac400a06d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\9a7321fbcc235ebe1b142c13629132d4\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:13:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\009a9adff2a31980a71d1799ce8e24aa\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\009a9adff2a31980a71d1799ce8e24aa\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:27:5-116:19
+MERGED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:27:5-116:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\10bae881a446838ef1800013ced0a04e\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\10bae881a446838ef1800013ced0a04e\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1f1792164aafa70b5fb6e9113c58b302\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1f1792164aafa70b5fb6e9113c58b302\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5d342e8f48e518cd7d9b0188d7c6ea5b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5d342e8f48e518cd7d9b0188d7c6ea5b\AndroidManifest.xml:22:5-23:19
+	android:supportsRtl
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:16:9-41
+	android:appComponentFactory
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:22:9-53
+		REJECTED from [com.android.support:support-compat:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1f1792164aafa70b5fb6e9113c58b302\AndroidManifest.xml:22:18-91
+	android:roundIcon
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:19:9-40
+	tools:replace
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:21:9-52
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:33:9-35:55
+	android:value
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:35:13-52
+	android:name
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:34:13-58
+activity#com.example.voice_map.MainActivity
+ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:37:9-43:20
+	android:name
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:37:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:39:13-65
+	android:name
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:39:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:41:13-73
+	android:name
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml:41:23-70
+uses-sdk
+INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8fbca210c64159e0b56af7abeaf54b47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8fbca210c64159e0b56af7abeaf54b47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\009a9adff2a31980a71d1799ce8e24aa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\009a9adff2a31980a71d1799ce8e24aa\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\10bae881a446838ef1800013ced0a04e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\10bae881a446838ef1800013ced0a04e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\24c2cddfcde8cb42809ffaf32af038fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\24c2cddfcde8cb42809ffaf32af038fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1-rc1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1-rc1.aar\3d621bfe7223211b1b82ab8830efc964\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1-rc1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1-rc1.aar\3d621bfe7223211b1b82ab8830efc964\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a954365a3fc0ebad9ee037a8fe11d017\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\a954365a3fc0ebad9ee037a8fe11d017\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2f27ecea21ed71ef8620d461e1b4dd1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\2f27ecea21ed71ef8620d461e1b4dd1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8104fb6d1f3123e5d340ad5fb23dd810\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\8104fb6d1f3123e5d340ad5fb23dd810\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\bfe3eb1430b753cff6787de53c374738\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\bfe3eb1430b753cff6787de53c374738\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\62f32a8582f79f75245b4167840eb979\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\62f32a8582f79f75245b4167840eb979\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e3fdd8633b6cecafdf3ee25dfa1c9d26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\e3fdd8633b6cecafdf3ee25dfa1c9d26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b48bd056586c2f0ea54517d3730cb751\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b48bd056586c2f0ea54517d3730cb751\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\08c7f228a1d85f76692ae67291d82b15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\08c7f228a1d85f76692ae67291d82b15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\004921bb51b33c042026e705c812b7f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\004921bb51b33c042026e705c812b7f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\417daf75e1b49ba6ea7d78a9a0badf73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\417daf75e1b49ba6ea7d78a9a0badf73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4257bfbfbe3863bc60df8d34f5c58160\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4257bfbfbe3863bc60df8d34f5c58160\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1bc27c54d02af62d3042e8e60f3aaded\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1bc27c54d02af62d3042e8e60f3aaded\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1f1792164aafa70b5fb6e9113c58b302\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\1f1792164aafa70b5fb6e9113c58b302\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5d342e8f48e518cd7d9b0188d7c6ea5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\5d342e8f48e518cd7d9b0188d7c6ea5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ce2c60020b71aa77466c33f64b962ef4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ce2c60020b71aa77466c33f64b962ef4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c54e12f31a4268f36dde8ab2fcd78ffb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c54e12f31a4268f36dde8ab2fcd78ffb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a8fd58c7bc6b08c28cdc1e45f56a1a00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a8fd58c7bc6b08c28cdc1e45f56a1a00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b37fa63d31a0c454c61528d4bdea5f12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\b37fa63d31a0c454c61528d4bdea5f12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2e11f360d738a1dbdd0684b81cbaa6f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2e11f360d738a1dbdd0684b81cbaa6f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\967c710d53b7cdcf964c4fc1a7851615\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\967c710d53b7cdcf964c4fc1a7851615\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\886e46f321a4f92cbdaf1620746f6fa7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\886e46f321a4f92cbdaf1620746f6fa7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4f8ef6f15e606d8622c7afec3aaa918b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4f8ef6f15e606d8622c7afec3aaa918b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07f64a361e5e7f8be67f906a9ec5818c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07f64a361e5e7f8be67f906a9ec5818c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1-rc1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1-rc1.aar\66e457c5694fad28db07aa36b2d8d60f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1-rc1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1-rc1.aar\66e457c5694fad28db07aa36b2d8d60f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1-rc1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\db-1.1.1-rc1.aar\03aba61e0b39194d1cef23ac400a06d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1-rc1] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\db-1.1.1-rc1.aar\03aba61e0b39194d1cef23ac400a06d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\9a7321fbcc235ebe1b142c13629132d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\9a7321fbcc235ebe1b142c13629132d4\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ramiya Shree\AndroidStudioProjects\VOICE_MAP\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:25:22-78
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:28:9-34:35
+	android:authorities
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:30:13-68
+	android:multiprocess
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:33:13-40
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:32:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:29:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:36:9-41:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:39:13-72
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:40:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:41:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:37:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:42:9-48:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:45:13-70
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:46:13-36
+	android:permission
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:47:13-69
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:48:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:43:13-84
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:50:9-55:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:53:13-35
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:54:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:55:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:52:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:51:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:56:9-65:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:59:13-36
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:60:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:57:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:61:13-64:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:62:17-87
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:62:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:63:17-90
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:63:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:66:9-75:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:69:13-36
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:70:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:68:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:67:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:71:13-74:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:72:17-77
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:72:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:73:17-76
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:73:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:76:9-85:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:79:13-36
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:80:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:77:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:81:13-84:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:82:17-83
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:82:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:83:17-82
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:83:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:86:9-94:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:89:13-36
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:90:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:88:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:87:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:91:13-93:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:92:17-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:92:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:95:9-105:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:98:13-36
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:99:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:97:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:96:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:100:13-104:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:101:17-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:101:25-76
+action#android.intent.action.TIME_SET
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:102:17-73
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:102:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:103:17-81
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:103:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:106:9-115:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:109:13-72
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:110:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:111:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:108:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:107:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:112:13-114:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:113:17-98
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-alpha08] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\work-runtime-1.0.0-alpha08.aar\c46843925ee06ec0bfe8477fd1017175\AndroidManifest.xml:113:25-95
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\10bae881a446838ef1800013ced0a04e\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\10bae881a446838ef1800013ced0a04e\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\10bae881a446838ef1800013ced0a04e\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\10bae881a446838ef1800013ced0a04e\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] C:\Users\Ramiya Shree\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\10bae881a446838ef1800013ced0a04e\AndroidManifest.xml:24:13-83

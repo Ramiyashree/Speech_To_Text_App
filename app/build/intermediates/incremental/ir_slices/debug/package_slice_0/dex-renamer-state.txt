@@ -1,0 +1,4 @@
+#Mon Jul 15 21:56:27 IST 2019
+base.0=C\:\\Users\\Ramiya Shree\\AndroidStudioProjects\\VOICE_MAP\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
